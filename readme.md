@@ -13,9 +13,10 @@ s.help will give you a list of commands on what SleepyCloud can do and help you
 ```
 
 ## Contributing
+Feel free to open a issue on this repository or by using the bug command in SleepyCloud
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 We welcome beta testers on SleepyCloud, just Direct Message me on Discord lavenderaynee#1234
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Creative Commons](https://github.com/sleepyproject/SleepyCloud./blob/main/LICENSE)
