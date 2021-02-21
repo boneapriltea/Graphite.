@@ -1,5 +1,6 @@
 # SleepyCloud
 
+Welcome to SleepyCloud Github Repository! Here, you can open a issue to help SleepyCloud shape its future! 
 SleepyCloud is a Advanced and Smart bot that brings some great perks to your Discord Server!
 
 ## Adding SleepyCloud
