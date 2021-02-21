@@ -10,7 +10,7 @@ Add SleepyCloud by going into this link: https://top.gg/bot/770892427518935050/i
 ## Usage
 
 ```python
-s.help will give you a list of commands on what SleepyCloud can do and help you
+The help command (s.help) will give you a list of commands on what SleepyCloud can do and help you
 ```
 
 ## Contributing
