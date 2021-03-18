@@ -52,9 +52,8 @@ Thanks! :heart:
 
 ## :scroll: License
 
-[Creative Commons Zero v1.0 Universal][license] © [Farrell](websiite)
+[Creative Commons Zero v1.0 Universal][license] © [Farrell](https://spacexliquid.xyz)
 
 
 [license]: /LICENSE
-[website]: https://spacexliquid.xyz
 [contributing]: /CONTRIBUTING.md
