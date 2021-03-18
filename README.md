@@ -38,7 +38,7 @@ Thank you for everyone who uses SleepyCloud. I try to reply to everyone needing 
 However, if you want to encourage me to continue creating stuff, there are few ways you can do it:
 
 
- - Starring and sharing the projects you like :rocket:
+ - Helping SleepyCloud Grow by reporting bugs or joining our team by visiting our [discord server](https://discord.gg/n3aXPrxfxE) :rocket:
 ```js
 Too bad I don't accept payments rn :)
 ```
