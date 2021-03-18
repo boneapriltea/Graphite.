@@ -22,8 +22,14 @@ There are few ways to get help:
  2. For direct and quick help, you can [join our discord server](https://discord.gg/n3aXPrxfxE). :rocket:
 
 
+
+
+
 ## :yum: How to contribute
 Have an idea? Found a bug? A missing letter or a typo? See [how to contribute][contributing].
+
+
+
 
 
 ## :sparkling_heart: Support my projects
