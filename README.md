@@ -52,7 +52,7 @@ Thanks! :heart:
 
 ## :scroll: License
 
-[Creative Commons Zero v1.0 Universal][license] © [Farrell][websiite]
+[Creative Commons Zero v1.0 Universal][license] © [Farrell](websiite)
 
 
 [license]: /LICENSE
