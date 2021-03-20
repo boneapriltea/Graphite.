@@ -4,8 +4,6 @@
 
 # SleepyCloud
 
-> You have come across my wonderful, beautiful blazingly smart Discord bot. This bot is packed to the brim with unfinished blazingly fast commands and functionality. Sounds good, doesn't it?
-
 
 ## :cloud: Setup
 
