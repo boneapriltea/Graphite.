@@ -33,10 +33,9 @@ Thank you for everyone who uses GraphiteMusic. I try to reply to everyone needin
 However, if you want to encourage me to continue creating stuff, there are few ways you can do it:
 
 
- - Helping Graphite Grow by reporting bugs or joining our team by visiting our [discord server](https://discord.gg/n3aXPrxfxE) :rocket:
-```js
-https://saweria.co/spacexliquid
-```
+ - Helping Graphite Grow by reporting bugs or joining our team by visiting our [discord server](https://discord.gg/n3aXPrxfxE) or donating below :rocket:
+
+[Donate to Farrell](https://saweria.co/spacexliquid)
 
 
 Thanks! :heart:
