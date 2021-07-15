@@ -11,7 +11,7 @@ There is no setup needed. 🌚
 Just invite and play along!
 
 
-:question: Get Help
+## :question: Get Help
 
 There are few ways to get help:
 
