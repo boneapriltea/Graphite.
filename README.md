@@ -8,7 +8,7 @@
 ## :cloud: Setup
 
 There is no setup needed. 🌚
-Just invite and play along!
+Just [invite](https://dsc.gg/sleepy) and play along!
 
 
 ## :question: Get Help
