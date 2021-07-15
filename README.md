@@ -7,9 +7,8 @@
 
 ## :cloud: Setup
 
-```sh
-s.setup
-```
+There is no setup needed. 🌚
+Just invite and play along!
 
 
 :question: Get Help
@@ -28,17 +27,15 @@ Have an idea? Found a bug? A missing letter or a typo? See [how to contribute][c
 
 
 
-
-
 ## :sparkling_heart: Support my projects
-Thank you for everyone who uses SleepyCloud. I try to reply to everyone needing help using SleepyCloud. Obviously, this takes time.
+Thank you for everyone who uses GraphiteMusic. I try to reply to everyone needing help using Graphite. Obviously, this takes time.
 
 However, if you want to encourage me to continue creating stuff, there are few ways you can do it:
 
 
- - Helping SleepyCloud Grow by reporting bugs or joining our team by visiting our [discord server](https://discord.gg/n3aXPrxfxE) :rocket:
+ - Helping Graphite Grow by reporting bugs or joining our team by visiting our [discord server](https://discord.gg/n3aXPrxfxE) :rocket:
 ```js
-Too bad I don't accept payments rn :)
+https://saweria.co/spacexliquid
 ```
 
 
@@ -50,7 +47,7 @@ Thanks! :heart:
 
 ## :scroll: License
 
-[Creative Commons Zero v1.0 Universal][license] © [Farrell](https://spacexliquid.xyz)
+[Creative Commons Zero v1.0 Universal][license] © [Farrell](https://portfolio.spacexliquid.xyz)
 
 
 [license]: /LICENSE
